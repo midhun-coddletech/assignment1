@@ -1,5 +1,5 @@
 body{
-    font-family: candara;
+    font-family: Candara;
     background-color: beige;
 }
 
@@ -45,4 +45,16 @@ margin-right: 50px;
     margin-left: 50px;
     margin-right: 50px;
     text-align: center;
+}
+
+.overview-image-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cultural-video-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
