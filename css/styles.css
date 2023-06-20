@@ -58,3 +58,23 @@ margin-right: 50px;
     align-items: center;
     justify-content: center;
 }
+
+.enquire-div{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-weight: bold;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+
+}
+
+.enquire-div input{
+    width: 1000px;
+    height: 40px;
+}
+
+.enquire-div textarea{
+    width: 1000px;
+    height: 150px;
+}
